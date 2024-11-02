@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "displayName": "Bill Gates",
+      "email": "bill.g@example.com",
+      "avatar": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-9.png"
+    }
+  ]
+}

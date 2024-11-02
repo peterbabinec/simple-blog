@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1477554193778-9562c28588c0",
+      "title": "Top 50 underrated plants for house decoration",
+      "category": "decorations",
+      "author": {
+        "id": "1",
+        "name": "Elsa Gardenowl",
+        "avatar": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-7.png"
+      },
+      "postedAt": "2024-01-01T00:00:00.000Z",
+      "likes": 733
+    }
+  ]
+}
